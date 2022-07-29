@@ -8,6 +8,7 @@ It provides to compare the apartments you are considering renting.
     - 家賃と管理費・共益費の合計値
     - 敷金
     - 礼金
+    - 初期費用
     - 間取り
     - 構造
     - 築年数
